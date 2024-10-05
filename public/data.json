@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "date": "September 28, 2024",
+      "title": "Best Match Detected: Wood & White",
+      "author": "Cate Adams",
+      "description": "Duis autem vel consetetur eum iriure dolor in hendrerit inulla vulputate velit esse molestie at vero consequat, vel illum dolore lorem ipsum dolor sit amet vultatup eu feugiat nulla facilisis accus.",
+      "img": "https://i.ibb.co.com/mtGPrjW/d1jpg.jpg",
+      "link": "https://example.com/continue-reading"
+    },
+    {
+      "id": 2,
+      "date": "September 28, 2024",
+      "title": "Interior Design Trends for 2024",
+      "author": "Mark Benson",
+      "description": "Discover the top interior design trends of 2024, focusing on minimalist styles, wood textures, and white themes. A blend of classic and modern aesthetics to revamp your home.",
+      "img": "https://i.ibb.co.com/t3dRPKf/d2.jpg",
+      "link": "https://example.com/interior-design-trends-2024"
+    },
+    {
+      "id": 3,
+      "date": "September 28, 2024",
+      "title": "Creating Cozy Spaces with Wood & White Accents",
+      "author": "Sandra Lee",
+      "description": "Transform your living space into a cozy retreat using wood and white elements. Simple, elegant, and timeless designs that make any room feel warm and inviting.",
+      "img": "https://i.ibb.co.com/hySD36d/3-1140x570.jpg",
+      "link": "https://example.com/cozy-spaces-wood-white"
+    },
+    {
+      "id": 4,
+      "date": "September 28, 2024",
+      "title": "Vel illum dolore lorem ipsum dolor",
+      "author": "John Doe",
+      "description": "Understanding how modern homes can benefit from clean lines and the strategic use of wood and white. Aesthetic solutions that promote both style and functionality.",
+      "img": "https://i.ibb.co.com/8g97x96/11-1140x570.jpg",
+      "link": "https://example.com/modern-home-solutions"
+    },
+    {
+      "id": 5,
+      "date": "September 28, 2024",
+      "title": "Furniture Design with Natural Materials",
+      "author": "Evelyn Harper",
+      "description": "A look into how natural materials like wood, coupled with neutral colors such as white, are taking over the furniture industry in 2024. Create sustainable and stylish living spaces.",
+      "img": "https://i.ibb.co.com/XZzHqxY/12-1140x570.jpg",
+      "link": "https://example.com/furniture-design-2024"
+    }
+  ]
+  

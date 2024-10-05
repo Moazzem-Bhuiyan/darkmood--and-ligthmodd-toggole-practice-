@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  background-color: rgb(211, 224, 220);
+  color: black;
+}
+
+li{
+  list-style: none;
+}
+
+/* styles.css */
+body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+    background-color:  white;
+}
+
+.text-white {
+    color: rgb(141, 136, 136);
+}
+
+.text-black {
+    color: black;
+}
